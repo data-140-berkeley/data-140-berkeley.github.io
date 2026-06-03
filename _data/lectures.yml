@@ -100,15 +100,47 @@ lectures:
   - title: "Spring Break"
     nonumber: true
   - title: "Introduction to moment generating functions"
+    readings:
+      - title: Ch 19
+        link: https://data140.org/textbook/content/chapter-19/distributions-of-sums/
   - title: "Moment generating functions; Chernoff bound"
+    readings:
+      - title: Ch 19
+        link: https://data140.org/textbook/content/chapter-19/distributions-of-sums/
   - title: "MLE; Conditioning; MAP estimates"
+    readings:
+      - title: Ch 20
+        link: https://data140.org/textbook/content/chapter-20/approaches-to-estimation/
   - title: "The beta and the binomial"
+    readings:
+      - title: Ch 21
+        link: https://data140.org/textbook/content/chapter-21/the-beta-and-the-binomial/
   - title: "Prediction and Error"
+    readings:
+      - title: Ch 22
+        link: https://data140.org/textbook/content/chapter-22/prediction/
   - title: "Variance by Conditioning"
+    readings:
+      - title: Ch 22
+        link: https://data140.org/textbook/content/chapter-22/variance-by-conditioning/
   - title: "Random vectors; multivariate normal"
+    readings:
+      - title: Ch 23
+        link: https://data140.org/textbook/content/chapter-23/multivariate-normal-rvs/
   - title: "Correlation and simple regression"
+    readings:
+      - title: Ch 24
+        link: https://data140.org/textbook/content/chapter-24/simple-linear-regression/
   - title: "Multiple regression 1"
+    readings:
+      - title: Ch 24
+        link: https://data140.org/textbook/content/chapter-24/simple-linear-regression/
+      - title: Ch 25
+        link: https://data140.org/textbook/content/chapter-25/multiple-regression/
   - title: "Multiple regression 2"
+    readings:
+      - title: Ch 25
+        link: https://data140.org/textbook/content/chapter-25/multiple-regression/
   - title: "RRR Week: Gamma family review (Prof. A.)"
     nonumber: true
   - title: "RRR Week: TA review"

@@ -43,8 +43,11 @@ labs:
     due: March 30 at 5PM
   - skip: true
   - title: Lab 7A
-    due: 4/6
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_07.ipynb
+    due: April 6 at 5PM
   - title: Lab 7B 
-    due: 4/13
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_07.ipynb
+    due: April 13 at 5PM
   - title: Lab 8
-    due: 4/20
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_08.ipynb
+    due: April 20 at 5PM
