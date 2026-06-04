@@ -5,6 +5,10 @@ nav_exclude: true
 description: A feed containing all of the class announcements.
 ---
 
+{: .warning }
+⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course if offered in the future.
+
+
 # Announcements
 
 Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`.
