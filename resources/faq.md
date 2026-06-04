@@ -4,6 +4,10 @@ title: Frequently Asked Questions
 nav_exclude: true
 description: Frequently asked questions about important general issues.
 ---
+
+{: .warning }
+⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course if offered in the future.
+
 # Frequently Asked Questions #
 ## Ani Adhikari, Spring 2017 ##
 {:.no_toc .text-delta}

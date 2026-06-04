@@ -4,6 +4,10 @@ title: Math Prerequisites
 nav_exclude: true
 description: The prerequisites for the class.
 ---
+
+{: .warning }
+⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course if offered in the future.
+
 # Math Prerequisities #
 ## A. Adhikari ##
 {:.no_toc .text-delta}
