@@ -11,7 +11,7 @@ require 'spec_helper'
 # Tests are segmented in 2.0, 2.1 and 2.2+
 # In most places WCAG 2.1AA is the minimum requirement, but 2.2 is the current WCAG Standard.
 REQUIRED_A11Y_STANDARDS = %i[wcag2a wcag2aa wcag21a wcag21aa].freeze
-COMPLETE_A11Y_STANDARDS = %i[wcag22aa best-practice secion508].freeze
+COMPLETE_A11Y_STANDARDS = %i[wcag22aa best-practice section508].freeze
 
 # axe-core rules that are not required to be accessible / do not apply
 # You may temporarily want to add rules here during development.
@@ -24,9 +24,18 @@ EXCLUDED_ELEMENTS = [
   '[data-a11y-errors="true"]'
 ].freeze
 
+# Add pages here that do not need to have a11y tests run.
+# Full paths as output by the tests should be used.
+# It should be rare to add to this array. One acceptable
+# use is to add redirect pages because they can introduce
+# race conditions and make the a11y tests fail inconsistently.
+SKIPPED_PAGES = [].freeze
+
 # We must call this to ensure the build it up-to-date.
 build_jekyll_site!
 ALL_PAGES = load_sitemap
+
+PAGES_TO_TEST = ALL_PAGES - SKIPPED_PAGES
 
 RSpec.shared_examples 'a11y tests' do
   it 'meets WCAG 2.1' do
@@ -44,23 +53,7 @@ RSpec.shared_examples 'a11y tests' do
   end
 end
 
-ALL_PAGES.each do |path|
-  if path.match(%r{/assets/references/mvn_plane.html})
-    describe 'Jupyter Notebook Exports' do
-      skip "skipping plotly @ #{path}"
-    end
-
-    next
-  end
-
-  if path.match(%r{/assets/references/mvn.html})
-    describe 'Jupyter Notebook Exports' do
-      skip "skipping plotly @ #{path}"
-    end
-
-    next
-  end
-
+PAGES_TO_TEST.each do |path|
   describe "#{path} is accessible", :js, type: :feature do
     context 'when light mode' do
       before do
