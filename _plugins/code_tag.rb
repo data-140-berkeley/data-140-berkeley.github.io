@@ -84,7 +84,7 @@ module Jekyll
       [true, false].include?(value)
     end
 
-    def to_boolean?(value)
+    def to_boolean(value)
       unless string_boolean?(value)
         raise ArgumentError,
               "value must be 'true' or 'false' not '#{value}' (type #{value.class})"
