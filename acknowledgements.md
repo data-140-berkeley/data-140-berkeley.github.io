@@ -5,6 +5,9 @@ nav_order: 9
 description: The acknowledgements.
 ---
 
+{: .warning }
+⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course if offered in the future.
+
 # Acknowledgements
 ## Ani Adhikari, Spring 2022 
 {: .no_toc .text-delta }

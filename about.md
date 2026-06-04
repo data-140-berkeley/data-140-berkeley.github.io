@@ -5,6 +5,9 @@ nav_order: 2
 description: Course policies and information.
 ---
 
+{: .warning }
+⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course if offered in the future.
+
 # About Data 140
 ## Ani Adhikari 
 {: .no_toc .text-delta }

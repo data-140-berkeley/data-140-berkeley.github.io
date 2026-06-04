@@ -48,9 +48,10 @@ def test_failures_with_pages(summary_group)
 end
 
 def nicely_print(hash)
-  hash.each do |key, values|
-    puts "#{key}:"
-    values.each { |item| puts("\t#{item}") }
+  hash.each_value do |values|
+    # rubocop:disable RSpec/Output
+    values.each { |item| puts item }
+    # rubocop:enable RSpec/Output
   end
 end
 
@@ -58,11 +59,9 @@ def print_summary
   results_data = JSON.parse(File.read(RESULTS_PATH))
   failing_tests_by_type = summarize_results(results_data)
   total_failures = failing_tests_by_type.values.sum
-  puts "#{total_failures} total a11y failures."
+
   return if total_failures == 0
 
-  pp(failing_tests_by_type)
-  puts "Failing Pages:\n#{'-' * 16}"
   summary_group = group_results(results_data)
   nicely_print(test_failures_with_pages(summary_group))
 end
