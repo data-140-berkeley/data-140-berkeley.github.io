@@ -6,7 +6,7 @@ description: Resources and references for the class.
 ---
 
 {: .warning }
-⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course if offered in the future.
+⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course is offered in the future.
 
 # Resources #
 {:.no_toc}
