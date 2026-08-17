@@ -1,5 +1,5 @@
 ---
-name: Aayan Rizvi
+name: Aditya Dawar
 team: Staff
 role: TA
 email: adityadawar
