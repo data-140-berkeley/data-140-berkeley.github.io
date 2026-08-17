@@ -1,6 +1,5 @@
 ---
 name: Aayan Rizvi
-team: Staff
 role: TA
 email: arizvi
 photo: aayan.png

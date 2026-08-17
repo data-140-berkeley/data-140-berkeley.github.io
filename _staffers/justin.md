@@ -1,6 +1,5 @@
 ---
 name: Justin Le
-team: Staff
 role: TA
 email: justin.le
 photo: justin.jpg

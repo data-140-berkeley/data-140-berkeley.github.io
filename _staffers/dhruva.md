@@ -1,6 +1,5 @@
 ---
 name: Dhruva Rajesh Bhagwat
-team: Staff
 role: TA
 email: dhruvab
 photo: dhruva.jpg
