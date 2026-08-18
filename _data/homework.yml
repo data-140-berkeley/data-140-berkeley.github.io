@@ -13,48 +13,42 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - title: Homework 1
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_01.ipynb
-    due: Jan 26 at 5PM
-  - title: Homework 2 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_02.ipynb
-    due: Feb 2 at 5PM
-  - title: Homework 3 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_03.ipynb
-    due: Feb 9 at 5PM
-  - title: Homework 4 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_04.ipynb
-    due: Feb 17 at 12PM
-  - title: Homework 5 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_05.ipynb
-    due: Feb 23 at 5PM
-  - title: Homework 6 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_06.ipynb
-    due: March 2 at 5PM
-  - title: Homework 7
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_07.ipynb 
-    due: March 9 at 5PM
-  - title: Homework 8 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_08.ipynb
-    due: March 16 at 5PM
-  - title: Homework 9 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_09.ipynb
-    due: March 30 at 5PM
-  - title: Spring Break
+  - skip: true # Homework 1-3 in _data/syllabus.yml b/c not on Monday
+  - title: Holiday 
     nonumber: true
-  - skip: true
+  - title: Homework 4 
+    link: 
+    due: 
+  - title: Homework 5 
+    link: 
+    due: 
+  - skip: true # Homework 6 in _data/syllabys.yml b/c not on Monday
+  - title: Homework 7
+    link: 
+    due: 
+  - title: Homework 8 
+    link: 
+    due: 
+  - title: Homework 9 
+    link: 
+    due: 
   - title: Homework 10 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_10.ipynb
-    due: April 13 at 5PM
+    link: 
   - title: Homework 11 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_11.ipynb
-    due: April 20 at 5PM
+    link: 
+    due: 
   - title: Homework 12 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_12.ipynb
-    due: April 27 at 5PM
+    link: 
+    due: 
   - title: Homework 13 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=hw/Homework_13.ipynb
-    due: May 4 at 5PM
+    link: 
+    due: 
+  - title: Homework 14
+    link: 
+    due: 
+  - title: Homework 15
+    link: 
+    due: 
   - title: RRR Week
     nonumber: true
   - title: Finals Week
