@@ -5,9 +5,6 @@ nav_order: 6
 description: Resources and references for the class.
 ---
 
-{: .warning }
-⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course is offered in the future.
-
 # Resources #
 {:.no_toc}
 
@@ -30,6 +27,6 @@ description: Resources and references for the class.
 - [Final Exam Reference](/assets/references/Final_Reference_Sheet.pdf)
 
 ### Python References
-- [prob140 library reference](http://prob140.org/prob140/)
+<!-- - [prob140 library reference](http://prob140.org/prob140/) -->
 - [datascience library reference](http://data8.org/datascience/tables.html)
 - [Final Exam Code Reference](/assets/references/final_reference_code_fa18.pdf)

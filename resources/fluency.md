@@ -4,9 +4,6 @@ title: Math Fluency
 nav_exclude: true
 ---
 
-{: .warning }
-⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course is offered in the future.
-
 # Math Fluency #
 ## A. Adhikari ##
 {: .text-delta}
