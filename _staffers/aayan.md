@@ -1,7 +1,6 @@
 ---
 name: Aayan Rizvi
-team: Staff
-role: Tutor
+role: TA
 email: arizvi
 photo: aayan.png
 ---

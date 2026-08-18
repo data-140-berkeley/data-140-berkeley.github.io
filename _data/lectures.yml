@@ -95,10 +95,10 @@ lectures:
     readings:
       - title: Ch 18
         link: https://data140.org/textbook/content/chapter-18/the-normal-and-gamma-families/
-  - title: "Spring Break"
-    nonumber: true
-  - title: "Spring Break"
-    nonumber: true
+  # - title: "Spring Break"
+  #   nonumber: true
+  # - title: "Spring Break"
+  #   nonumber: true
   - title: "Introduction to moment generating functions"
     readings:
       - title: Ch 19
@@ -131,6 +131,8 @@ lectures:
     readings:
       - title: Ch 24
         link: https://data140.org/textbook/content/chapter-24/simple-linear-regression/
+  - title: "Holiday - No lecture"
+    nonumber: true
   - title: "Multiple regression 1"
     readings:
       - title: Ch 24
@@ -141,10 +143,9 @@ lectures:
     readings:
       - title: Ch 25
         link: https://data140.org/textbook/content/chapter-25/multiple-regression/
-  - title: "RRR Week: Gamma family review (Prof. A.)"
+  - title: "RRR Week"
     nonumber: true
-  - title: "RRR Week: TA review"
+  - title: "RRR Week"
     nonumber: true
-  - title: Finals Week
-    nonumber: true
+
 

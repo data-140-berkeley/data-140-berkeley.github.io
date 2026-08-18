@@ -1,7 +1,6 @@
 ---
 name: Rohan Kosalge
-team: Staff
-role: Tutor
+role: TA
 email: rohankosalge
 photo: rohan.jpg
 ---

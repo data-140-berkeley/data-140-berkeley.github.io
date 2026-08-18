@@ -1,7 +1,6 @@
 ---
 name: Justin Le
-team: Staff
-role: Tutor
+role: TA
 email: justin.le
 photo: justin.jpg
 ---

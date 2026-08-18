@@ -9,11 +9,11 @@ seo:
 ---
 
 {: .warning }
-⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course is offered in the future.
+⚠️ The content on this page is subject to change until this banner is removed.
 
 
 # Data 140: Probability for Data Science
-UC Berkeley, Spring 2026
+UC Berkeley, Fall 2026
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {%- if site.enable_announcements -%}
