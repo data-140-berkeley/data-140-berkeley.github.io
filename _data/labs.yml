@@ -16,38 +16,29 @@
 # NOTE: Labs do not have numbering in the schedule labels due to the number-letter 
 # (e.g. 3A, 3B) ordering of some labs
 labs:
-  - title: Lab 1
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_01.ipynb
-    due: Jan 26 at 5PM
+  - skip: true 
+  - skip: true
   - title: Lab 2
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_02.ipynb
-    due: Feb 2 at 5PM
-  - title: Lab 3A
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_03.ipynb
-    due: Feb 9 at 5PM
-  - title: Lab 3B 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_03.ipynb
-    due: Feb 17 at 12PM
+    link:
+    due: 
+  - skip: true
   - skip: true
   - title: Lab 4
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_04.ipynb
-    due: March 2 at 5PM
-  - title: Lab 5
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_05.ipynb
-    due: March 9 at 5PM
-  - title: Lab 6A 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_06.ipynb
-    due: March 16 at 5PM
-  - title: Lab 6B 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_06.ipynb
-    due: March 30 at 5PM
+    link:
+    due: 
+  - title: Lab 5A
+    link:
+    due: 
+  - title: Lab 5B 
+    link: 
+    due:
   - skip: true
-  - title: Lab 7A
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_07.ipynb
-    due: April 6 at 5PM
-  - title: Lab 7B 
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_07.ipynb
-    due: April 13 at 5PM
-  - title: Lab 8
-    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/prob140/materials-sp26&branch=main&subPath=lab/Lab_08.ipynb
-    due: April 20 at 5PM
+  - title: Lab 6A
+    link: 
+    due: 
+  - title: Lab 6B 
+    link:
+    due:
+  - title: Lab 7
+    link: 
+    due: 
