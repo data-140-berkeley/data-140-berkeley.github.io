@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 ---
 
 {: .warning }
-⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course is offered in the future.
+⚠️ The content on this page is currently being updated. Check back later to learn more about the Fall 2026 Staff!
 
 
 # Staff
@@ -25,17 +25,8 @@ Append `@berkeley.edu` to all email addresses. **For personal circumstances or s
 </div>
 {% endif %}
     
-{% assign instructors = site.staffers | where: 'role', 'Instructor' | reverse %}
-{% assign num_instructors = instructors | size %}
-{% if num_instructors != 0 %}
-## Instructors
 
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
-{% assign staff = site.staffers | where: 'team', 'Staff' %}
+{% assign staff = site.staffers | where_exp: "item", "item.role != 'Professor'" %}
 {% assign num_staff = staff | size %}
 {% if num_staff != 0 %}
 ## Course Staff
