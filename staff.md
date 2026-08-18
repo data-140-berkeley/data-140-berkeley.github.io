@@ -5,10 +5,6 @@ nav_order: 3
 description: A listing of all the course staff members.
 ---
 
-{: .warning }
-⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course is offered in the future.
-
-
 # Staff
 
 Append `@berkeley.edu` to all email addresses. **For personal circumstances or sensitive matters,** please use the staff email address **[data140@berkeley.edu](mailto:data140@berkeley.edu)**, which is monitored only by the professor and a few TAs.

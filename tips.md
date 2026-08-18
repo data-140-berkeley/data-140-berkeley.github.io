@@ -5,9 +5,6 @@ nav_order: 7
 description: Tips on doing well in Data 140.
 ---
 
-{: .warning }
-⚠️ The content on this site is archived and retained exclusively for reference. Updates will be made when the course is offered in the future.
-
 # Study Tips from Staff and Students #
 ## Ani Adhikari ## 
 {:.no_toc .text-delta}
