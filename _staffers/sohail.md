@@ -2,7 +2,7 @@
 name: Sohail Mukadam
 role: TA
 email: sohailmukadam
-photo: sohail.jpeg
+photo: sohail.jpg
 ---
 
-Hey everyone, I'm a 3rd year studying applied math + data science. Whenever free, I love traveling, exploring nature, and watching football! Data 140 is an amazing class where I learned a lot, so I hope you do too :)
+Hi everyone! I'm a 4th-year student majoring in Data Science and Applied Mathematics. In my free time, I love traveling, running, and watching movies and football. Data 140 is an amazing class where I learned a lot, so I hope you do too! :D

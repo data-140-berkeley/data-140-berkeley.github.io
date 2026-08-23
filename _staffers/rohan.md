@@ -5,4 +5,4 @@ email: rohankosalge
 photo: rohan.jpg
 ---
 
-Hi! I'm Rohan and I'm a sophomore studying Data Science. In my free time I love travelling, watching sports (basketball and football) and playing my guitar. I had a lot of fun learning in Data140, I hope you guys do too!
+Hi! I'm a junior studying data science, and I'm also a Bay Area native. In my free time I enjoy traveling, watching sports (basketball/football) and playing my guitar. I learned a lot in Data140, I hope you all do too!

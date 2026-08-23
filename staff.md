@@ -5,8 +5,7 @@ nav_order: 3
 description: A listing of all the course staff members.
 ---
 
-{: .warning }
-⚠️ The content on this page is currently being updated. Check back later to learn more about the Fall 2026 Staff!
+
 
 
 # Staff
