@@ -57,7 +57,8 @@
 {%- assign lab_index = 0 -%}
 {%- assign homework_index = 0 -%}
 {%- assign lecture_number = site.data.syllabus.starting_lecture_number | default: 1 -%}
-{%- assign discussion_number = site.data.syllabus.starting_discussion_number | default: 1 -%}
+{%- assign section_number = 1 -%}
+{%- assign mega_section_number = 1 -%}
 {%- assign lab_number = site.data.syllabus.starting_lab_number | default: 1 -%}
 {%- assign homework_number = site.data.syllabus.starting_homework_number | default: 1 -%}
 
@@ -193,8 +194,13 @@
 
                             {%- comment -%} 3. RENDER LABEL (Unless nonumber is true) {%- endcomment -%}
                             {%- unless disc_entry.nonumber -%}
-                                <strong class="label label-discussion">Discussion {{ discussion_number }}</strong>
-                                {%- assign discussion_number = discussion_number | plus: 1 -%}
+                                {%- if day_of_week == '3' -%}
+                                    <strong class="label label-discussion">Section {{ section_number }}</strong>
+                                    {%- assign section_number = section_number | plus: 1 -%}
+                                {%- elsif day_of_week == '5' -%}
+                                    <strong class="label label-discussion">Mega Section {{ mega_section_number }}</strong>
+                                    {%- assign mega_section_number = mega_section_number | plus: 1 -%}
+                                {%- endif -%}
                             {%- endunless -%}
 
                             {%- comment -%} 4. RENDER LINK OR TITLE {%- endcomment -%}

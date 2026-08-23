@@ -131,7 +131,7 @@ lectures:
     readings:
       - title: Ch 24
         link: https://data140.org/textbook/content/chapter-24/simple-linear-regression/
-  - title: "Holiday - No lecture"
+  - title: "Holiday"
     nonumber: true
   - title: "Multiple regression 1"
     readings:

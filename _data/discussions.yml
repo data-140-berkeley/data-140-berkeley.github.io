@@ -13,10 +13,39 @@
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
-  - title: Discussion 0
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
-  - slug: disc01
-  - title: Discussion 2
-  - skip: true
-  - title: Discussion 3
-  - title: Discussion 4
+  - title: 
+  - title: 
+  - title: 
+  - title: 
+  - title:
+  - title: 
+  - title: 
+  - title: 
+  - title: 
+  - title:
+  - title: 
+  - title: 
+  - title: 
+  - title: 
+  - title:
+  - title: 
+  - title: 
+  - title: 
+  - title: 
+  - title:
+  - title: 
+  - title: "Holiday - no section"
+    nonumber: true
+  - title: 
+  - title: 
+  - title:
+  - title: "Holiday"
+    nonumber: true
+  - title: "Holiday"
+    nonumber: true
+  - title:
+  - title:
+  - title: "RRR Week"
+    nonumber: true
+  - title: "RRR Week"
+    nonumber: true
