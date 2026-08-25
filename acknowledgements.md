@@ -5,8 +5,8 @@ nav_order: 9
 description: The acknowledgements.
 ---
 
-{: .warning }
-⚠️ The content on this page is subject to change until this banner is removed.
+<!-- {: .warning }
+⚠️ The content on this page is subject to change until this banner is removed. -->
 
 # Acknowledgements
 ## Ani Adhikari, Spring 2022 

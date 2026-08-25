@@ -8,8 +8,8 @@ seo:
   name: Data 140
 ---
 
-{: .warning }
-⚠️ The content on this page is subject to change until this banner is removed.
+<!-- {: .warning }
+⚠️ The content on this page is subject to change until this banner is removed. -->
 
 
 # Data 140: Probability for Data Science

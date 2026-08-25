@@ -38,9 +38,7 @@ homework:
     due: 
   - title: Homework 10 
     link: 
-  - title: Homework 11 
-    link: 
-    due: 
+  - skip: true
   - title: Homework 12 
     link: 
     due: 

@@ -33,9 +33,7 @@ labs:
     link: 
     due:
   - skip: true
-  - title: Lab 6A
-    link: 
-    due: 
+  - skip: true
   - title: Lab 6B 
     link:
     due:
