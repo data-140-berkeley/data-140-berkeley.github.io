@@ -21,12 +21,12 @@ The programming prerequisite is Data 8, nothing more. The code will not be long 
 
 **The key to success in Data 140 is logical clarity and math.** Students who have greater mathematical fluency have an easier time. They can focus more on the probabilistic concepts because the math and hence the course takes them less time.
 
-Students don't always know what faculty mean by terms like "mathematical maturity" or "math fluency". I've tried to explain what I mean by math fluency in Data 140 and Stat 134, the upper division probability courses that I have taught, [here](resources/fluency.md). You'll see that it's less about the set of results that you know and more about how you understand what you do know and how you approach math.
+Students don't always know what faculty mean by terms like "mathematical maturity" or "math fluency". I've tried to explain what I mean by math fluency in Data 140 and Stat 134, the upper division probability courses that I have taught, [here]({{ "/resources/fluency/" | relative_url }}). You'll see that it's less about the set of results that you know and more about how you understand what you do know and how you approach math.
 
 **You don't need math beyond what's listed in the requirements. But you do need to be confident with all those requirements so you can use them at speed and follow the textbook.** Or you should be prepared to spend time learning math while you learn the probability. Many students do the latter but it's very hard work.
 
 ### Math Background ###
-If you're worried that you don't have the necessary fluency, the [Math Prerequisites](resources/prereqs.md) page includes the math needed for different parts of the course, some concise reference materials, and some exercises for you to try. 
+If you're worried that you don't have the necessary fluency, the [Math Prerequisites]({{ "/resources/prereqs/" | relative_url }}) page includes the math needed for different parts of the course, some concise reference materials, and some exercises for you to try. 
 
 Student experience is unsurprising – if you take the page seriously and study the prereqs before the sections in which they are needed, it will be easier for you to pick up the new probabilistic concepts and do your assignments. 
 

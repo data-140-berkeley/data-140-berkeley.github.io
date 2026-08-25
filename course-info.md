@@ -45,7 +45,7 @@ Lectures will not assume that you have already worked through the content of the
 - [*Probability*](https://link-springer-com.libproxy.berkeley.edu/book/10.1007/978-1-4612-4374-8) by Jim Pitman, published by Springer NY. Available for Berkeley students on SpringerLink at no cost or low cost (for a printed version) if you log on via CalNet.
 - [*Introduction to Probability*](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) by Joe Blitzstein and Jessica Hwang
 - [*Introduction to Probability*](http://athenasc.com/probbook.html) by Dimitri Bertsekas and John Tsitsiklis
-- [*Theory Meets Data*](http://stat88.org/textbook/content/intro.html), the Data 88S textbook written by Prof. Adhikari, covers some of the basic concepts of Data 140 at a more elementary level.
+- [*Theory Meets Data*](https://data88s.org/textbook/content/intro.html), the Data 88S textbook written by Prof. Adhikari, covers some of the basic concepts of Data 140 at a more elementary level.
 
 ## Weekly Class Sessions ##
 
@@ -62,7 +62,7 @@ Student participation and informal conversation will be encouraged during all le
 ## Weekly Support Sessions ##
 
 - Assignment "parties" (work sessions with staff support): Lab Party and Homework Party days and times TBA.
-- Office hours by the instructor and course staff, days and times to be reflected on the [Weekly Schedule](http://prob140.org/schedule).
+- Office hours by the instructor and course staff, days and times to be reflected on the [Weekly Schedule](http://data140.org/calendar).
 
 ## Study Guides ##
 
