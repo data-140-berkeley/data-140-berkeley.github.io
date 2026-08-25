@@ -16,8 +16,8 @@
 # NOTE: Labs do not have numbering in the schedule labels due to the number-letter 
 # (e.g. 3A, 3B) ordering of some labs
 labs:
+  - title: Lab 1A
   - skip: true 
-  - skip: true
   - title: Lab 2
     link:
     due: 

@@ -4,7 +4,7 @@
 
 # Set start_date to the Monday of the first week of instruction.
 # Set end_date to the Friday of exams week.
-start_date: 2026-08-27
+start_date: 2026-08-26
 end_date: 2026-12-15
 
 # Any other days you want to appear on the calendar (e.g. for one-time events
@@ -13,18 +13,13 @@ extra_days_col2:
   - date: 2026-08-27
     title: Homework 1
     label: homework
-  - date: 2026-09-01
-    title: Homework 2
-    label: homework
+    due: Aug 31 at 5PM
   - date: 2026-09-08
     title: Homework 3
     label: homework
   - date: 2026-09-29
     title: Homework 6
     label: homework
-  - date: 2026-09-01
-    title: Lab 1A
-    label: lab
   - date: 2026-09-08
     title: Lab 1B
     label: lab

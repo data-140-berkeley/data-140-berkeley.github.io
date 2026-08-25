@@ -92,10 +92,19 @@
                 <div class="syllabus-item" style="margin-bottom: 8px;">
                 {%- if extra.label and extra.label != "none" -%}
                     <strong class="label label-{{ extra.label }}">
-                    {{ extra.label | capitalize }}
+                        {{ extra.label | capitalize }}
                     </strong>
                 {%- endif -%}
-                <span>{{ extra.title }}</span>
+
+                {%- if extra.link -%}
+                    <a href="{{ extra.link }}">{{ extra.title }}</a>
+                {%- else -%}
+                    <span>{{ extra.title }}</span>
+                {%- endif -%}
+
+                {%- if extra.due -%}
+                    &nbsp;(due {{ extra.due }})
+                {%- endif -%}
                 </div>
             {%- endif -%}
             {%- endfor -%}

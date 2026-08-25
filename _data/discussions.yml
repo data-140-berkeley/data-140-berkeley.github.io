@@ -13,12 +13,8 @@
 # link overrides the default link to the discussion page from the collection if 
 # you provided a slug or provides an external link
 discussions:
-  - title: 
-  - title: 
-  - title: 
-  - title: 
-  - title:
-  - title: 
+  - title: "No Section"
+    nonumber: true
   - title: 
   - title: 
   - title: 
@@ -34,7 +30,13 @@ discussions:
   - title: 
   - title:
   - title: 
-  - title: "Holiday - no section"
+  - title: 
+  - title: 
+  - title: 
+  - title:
+  - title: 
+  - title:
+  - title: "Holiday - No Section"
     nonumber: true
   - title: 
   - title: 
