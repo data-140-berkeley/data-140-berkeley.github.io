@@ -74,7 +74,7 @@ You are welcome to follow a different study schedule if that suits you better. B
 
 ### Wednesday Section Attendance ###
 
-Wednesday sections will include a worksheet designed to get you started on the week's homework. Your responsibility is to fill out the worksheet in collaboration with your section and your TA, who will then collect your filled worksheet and scan it into Gradescope. Further details will be discussed in class and on Ed.
+Wednesday sections will include a worksheet designed to get you started on the week's homework. Your responsibility is to fill out the worksheet in collaboration with your section and your TA, who will then collect your filled worksheet and scan it into Gradescope.
 
 ### Weekly Assignments ###
 
