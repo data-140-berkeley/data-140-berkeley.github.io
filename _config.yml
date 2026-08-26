@@ -35,7 +35,7 @@ aux_links:
   Ed:
     - 'https://edstem.org/us/'
   Gradescope:
-   - 'https://www.gradescope.com/courses/'
+   - 'https://www.gradescope.com'
 
 # Collections for website data
 collections:

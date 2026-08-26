@@ -5,8 +5,8 @@ nav_order: 4
 description: Course Policies
 ---
 
-{: .warning }
-⚠️ The content on this page is subject to change until this banner is removed.
+<!-- {: .warning }
+⚠️ The content on this page is subject to change until this banner is removed. -->
 
 
 # Course Information
