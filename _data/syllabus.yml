@@ -46,10 +46,10 @@ extra_days_col2:
 # The dates used in extra_links_col3 below must already be included on the calendar 
 # Use this to provide extra links in the third (reading) column
 extra_links_col3:
-  # - date: 2026-01-19
-  #   title: Week 1 Guide
-  #   link: /assets/guides/spring26/week01.pdf
-  #   label: guide
+  - date: 2026-08-26
+    title: Week 1 Guide
+    link: /assets/guides/fall26/week01.pdf
+    label: guide
 
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
