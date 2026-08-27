@@ -9,7 +9,7 @@ description: The acknowledgements.
 ⚠️ The content on this page is subject to change until this banner is removed. -->
 
 # Acknowledgements
-## Ani Adhikari, Spring 2022 
+## Ani Adhikari, Fall 2026 
 {: .no_toc .text-delta }
 
 ## Table of Contents
