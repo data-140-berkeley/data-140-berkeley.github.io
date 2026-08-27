@@ -24,7 +24,7 @@ favicon_ico: 'assets/brand/favicon.ico'
 course_department: 'dsus'
 
 gradescope_course_id: '1231546'
-bcourses_course_id:
+bcourses_course_id: 1558059
 ed_course_id: '94054'
 
 enable_announcements: true
