@@ -37,14 +37,18 @@ The move to remote learning in 2020 was spearheaded by Alan Chuang, Katherine Ye
 Prob 140 has always had outstandingly dedicated and creative staff teams. Apart from those mentioned above, the initial offerings were fortunate to have the contributions of Priyanka Bhoj, Arvind Iyengar, Serena Jiang, Tara Mirmira, Xinyi Ren, and Henry Zhu. 
 
 ### The Logo ###
-The current logo was designed by Spring 2022 student Consuelo Ugarte, who accompanied the design with a fundamental truth gained from the class: "You can get really darn far with coinflips."
+The current logo was designed by Spring 2026 student Keryssa Li. It is an inspired take on density functions and joint density surfaces. I will never look at jellyfish in the same way again.
+
+The previous logo was designed by Spring 2022 student Consuelo Ugarte, who accompanied the design with a fundamental truth gained from the class: "You can get really darn far with coinflips."
+
+[<img src="/assets/brand/logo_sp22.png" alt="Spring 2022 logo" width="200"/>](assets/brand/logo_sp22.png)
 
 The original course logo by Biyonka Liang was the winning entry in a competition among students and staff in the pilot offering. Though formally Stat 140, the course was called Prob 140 as in Biyonka's logo.
 
 [<img src="/assets/brand/logo_sp17.png" alt="Spring 2017 logo" width="200"/>](assets/brand/logo_sp17.png)
 
-In Spring 2021 the course officially became Data 140 and took its rightful place in the sequence Data [8](http://data8.org/), [100](http://www.ds100.org/), [140](http://prob140.org/), and [102](https://data102.org/). The logo was modified accordingly by the inimitable Ryan Roggenkemper, designer of some memorable staff swag. 
+In Spring 2021 the course officially became Data 140 and took its rightful place in the sequence Data [8](http://data8.org/), [100](http://www.ds100.org/), [140](https://data140.org/), and [102](https://data102.org/). The logo was modified accordingly by the inimitable Ryan Roggenkemper, designer of some memorable staff swag. 
 
 [<img src="/assets/brand/logo_sp21.png" alt="Spring 2017 logo with the words Prob140 overwritten with the words Data140" width="200"/>](assets/brand/logo_sp22.png)
 
-This one is destined to remain a classic. But Data 140 now has its own identity and hence also a new logo.
+This one is destined to remain a classic.
