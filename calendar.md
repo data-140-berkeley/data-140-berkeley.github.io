@@ -5,8 +5,8 @@ description: OH schedules
 nav_order: 3
 ---
 
-{: .warning }
-⚠️ The content on this page is subject to change until this banner is removed.
+<!-- {: .warning }
+⚠️ The content on this page is subject to change until this banner is removed. -->
 
 
 # OH Calendar
