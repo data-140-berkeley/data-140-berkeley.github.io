@@ -139,7 +139,12 @@ google_calendar:
       text_color: '000'
       class: cal-tea-oh
       icon: fa-mug-hot
-    - suffix: Faculty Office Hours
+    - suffix: Professor OH
+      background_color: 'FFC31B' # gold medium
+      text_color: '000'
+      class: cal-tea-oh
+      icon: fa-person-circle-question
+    - suffix: Professor 1:1s
       background_color: 'FFC31B' # gold medium
       text_color: '000'
       class: cal-tea-oh
