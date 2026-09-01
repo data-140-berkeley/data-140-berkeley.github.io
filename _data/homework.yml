@@ -15,8 +15,8 @@
 homework:
   # Homework 1 in _data/syllabus.yml b/c not on Monday
   - title: Homework 2 
-    link: 
-    due:
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=hw/Homework_02.ipynb
+    due: Sep 8 at 12PM Noon
   # Homework 3 in _data/syllabus.yml b/c not on Monday
   - title: Holiday 
     nonumber: true

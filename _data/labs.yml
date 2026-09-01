@@ -17,6 +17,8 @@
 # (e.g. 3A, 3B) ordering of some labs
 labs:
   - title: Lab 1A
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=lab/Lab_01.ipynb
+    due: Sep 8 at 12PM Noon
   - skip: true 
   - title: Lab 2
     link:
