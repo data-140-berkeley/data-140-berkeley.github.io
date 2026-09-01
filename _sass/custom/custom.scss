@@ -17,6 +17,19 @@ div.highlighter-rouge div.highlight {
   overflow-x: unset;
 }
 
+// for narrow screens (12%), make date column more readable
+@media (max-width: 600px) {
+    .syllabus-container table.spanned-table tbody tr td:nth-child(1) {
+        width: 25% !important;
+    }
+    .syllabus-container table.spanned-table tbody tr td:nth-child(2) {
+        width: 50% !important;
+    }
+    .syllabus-container table.spanned-table tbody tr td:nth-child(3) {
+        width: 25% !important;
+    }
+}
+
 // Override default JTD CSS for larger/more accessibile fonts.
 // (used in schedule)
 
