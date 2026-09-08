@@ -13,16 +13,20 @@ extra_days_col2:
   - date: 2026-08-27
     title: Homework 1
     label: homework
-    due: Aug 31 at 5PM
+    due: Aug 31 at 5 PM
     link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=hw/Homework_01.ipynb
   - date: 2026-09-08
     title: Homework 3
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=hw/Homework_03.ipynb
+    due: Sep 14 at 5 PM
     label: homework
   - date: 2026-09-29
     title: Homework 6
     label: homework
   - date: 2026-09-08
     title: Lab 1B
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=lab/Lab_01.ipynb
+    due: Sep 14 at 5 PM
     label: lab
   - date: 2026-09-29
     title: Lab 3
