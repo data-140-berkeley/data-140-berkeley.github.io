@@ -21,8 +21,8 @@ homework:
   - title: Holiday 
     nonumber: true
   - title: Homework 4 
-    link: 
-    due: 
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=hw/Homework_04.ipynb
+    due: Sep 14 at 5 PM
   - title: Homework 5 
     link: 
     due: 
