@@ -5,11 +5,13 @@ nav_exclude: true
 description: Scope for Midterm 1.
 ---
 
-### Data 140 Fall 2026 ###
-### A. Adhikari ###
-
 # Material for Midterm 1 #
-<br>
+## Data 140 Fall 2026 ##
+
+### A. Adhikari ###
+{: .text-delta }
+
+## Material for Midterm 1 ##
 Midterm 1 is on Monday 9/28 from 8:10 PM to 9:40 PM. The scope is Chapters 1 through 9. 
 
 Here is a summary of the material for the exam, grouped by main topic. **Boldface** has been reserved for topics that we consider to be **core material** for understanding the rest of the course.
@@ -34,13 +36,13 @@ You will not have to write code on the midterm. Any code that you may have to re
 
 ### Expectation ###
 - **[Chapter 8](https://data140.org/textbook/content/chapter-08/expectation/): The main properties, including additivity, the method of indicators, and expectations of functions (linear and non-linear), as well as the tail sum formula for the expectation of a non-negative integer valued variable**
-- [Section 9.1](https://data140.org/textbook/content/chapter-09/expectation-by-conditioning/): Iterative expectation by conditioning
+- [Section 9.2](https://data140.org/textbook/content/chapter-09/expectation-by-conditioning/): Iterative expectation by conditioning
 
 ---
 
 ### Random Counts ###
 These distributions are fundamental elements of discrete probabilistic modeling. **ALL of this section should be in bold.**
-- [Section 8.1](https://data140.org/textbook/content/chapter-08/applying-the-definition/#bernoulli-and-indicators): Bernoulli
+- [Section 8.2](https://data140.org/textbook/content/chapter-08/applying-the-definition/#bernoulli-and-indicators): Bernoulli
 - [Section 8.2](https://data140.org/textbook/content/chapter-08/applying-the-definition/#uniform-on-an-interval-of-integers): Uniform on a, a+1, ... , b
 - Sections [6.1](https://data140.org/textbook/content/chapter-06/binomial-distribution/), [6.3](https://data140.org/textbook/content/chapter-06/multinomial-distribution/), [8.5](https://data140.org/textbook/content/chapter-08/method-of-indicators/#expectation-of-the-binomial): Binomial, multinomial, expectation of the binomial
 - Sections [5.4](https://data140.org/textbook/content/chapter-05/sampling-without-replacement/#counting-good-elements-in-a-simple-random-sample), [6.4](https://data140.org/textbook/content/chapter-06/the-hypergeometric-revisited/), [8.5](https://data140.org/textbook/content/chapter-08/method-of-indicators/#expectation-of-the-hypergeometric): Hypergeometric and its expectation
