@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Midterm 1 Contents
-nav_exclude: false
+nav_exclude: true
 description: Scope for Midterm 1.
 ---
 
