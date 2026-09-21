@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Midterm 1 Contents
-nav_exclude: true
+nav_exclude: false
 description: Scope for Midterm 1.
 ---
 
-# Material for Midterm 1 #
 ### Data 140 Fall 2026 ###
 ### A. Adhikari ###
 
+# Material for Midterm 1 #
+<br>
 Midterm 1 is on Monday 9/28 from 8:10 PM to 9:40 PM. The scope is Chapters 1 through 9. 
 
 Here is a summary of the material for the exam, grouped by main topic. **Boldface** has been reserved for topics that we consider to be **core material** for understanding the rest of the course.
