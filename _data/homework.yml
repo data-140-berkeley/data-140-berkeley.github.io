@@ -24,8 +24,8 @@ homework:
     link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=hw/Homework_04.ipynb
     due: Sep 21 at 5 PM
   - title: Homework 5 
-    link: 
-    due: 
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=hw/Homework_05.ipynb
+    due: Sep 28 at 12 PM Noon
   - skip: true # Homework 6 in _data/syllabys.yml b/c not on Monday
   - title: Homework 7
     link: 
