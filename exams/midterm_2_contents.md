@@ -12,7 +12,7 @@ description: Scope for Midterm 2.
 
 ## Material for Midterm 2 ##
 
-Midterm 1 is on Monday 11/2 from 8:10 PM to 9:40 PM. Contents go through Section 18.3.2 of the textbook, that is, through the lecture on Tuesday 10/27.
+Midterm 2 is on Monday 11/2 from 8:10 PM to 9:40 PM. Contents go through Section 18.3.2 of the textbook, that is, through the lecture on Tuesday 10/27.
 
 Note that the new content since Midterm 1 is in Chapters 10 through 18.3.2. However, it is not possible to understand that material without first understanding Chapters 1 through 9.
 
