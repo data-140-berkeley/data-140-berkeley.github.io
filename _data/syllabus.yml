@@ -127,6 +127,10 @@ extra_links_col3:
     title: Week 10 Extra Practice
     link: https://www.youtube.com/playlist?list=PLfU0ltkXo2CM
     label: video
+  - date: 2026-10-26
+    title: Week 10 Guide
+    link: /assets/guides/fall26/week10.pdf
+    label: guide
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
 # For example, for a semester with Tu/Th lectures, put ['2', '4'].
