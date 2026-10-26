@@ -85,3 +85,6 @@ Note that the new content since Midterm 1 is in Chapters 10 through 18.3.2. Howe
 ### Gamma ###
 - Section [15.4](https://prob140.org/textbook/content/Chapter_15/04_Exponential_Distribution.html), [16.1](https://data140.org/textbook/content/chapter-16/linear-transformations/#linear-transformation-exponential-density): Exponential and scaling
 - Sections [18.3.1](https://data140.org/textbook/content/chapter-18/the-gamma-family/#the-rate-lambda), [18.3.2](https://data140.org/textbook/content/chapter-18/the-gamma-family/#the-shape-parameter-r), Homework 8: Gamma function, gamma density, mean, variance
+
+### Lab Sections
+The code isn't in scope, but the methods of Lab 3, Lab 4, and Lab 5 are.
