@@ -1,7 +1,7 @@
 ---
 title: Week 9 Announcement
 week: 9
-date: 2026-10-26
+date: 2026-10-19
 ---
 
 - The [Week 9 Study Guide](/assets/guides/fall26/week09.pdf) has been released.
