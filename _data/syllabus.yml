@@ -38,9 +38,13 @@ extra_days_col2:
   - date: 2026-11-03
     title: Lab 6A
     label: lab
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=lab/Lab_06.ipynb
+    due: Nov 9 at 5 PM
   - date: 2026-11-03
     title: Homework 11
     label: homework
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=hw/Homework_11.ipynb
+    due: Nov 9 at 5 PM
   - date: 2026-09-28
     title: Midterm 1 (8-10 PM)
     label: exam
