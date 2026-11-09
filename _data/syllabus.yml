@@ -139,6 +139,10 @@ extra_links_col3:
     title: Week 11 Guide
     link: /assets/guides/fall26/week11.pdf
     label: guide
+  - date: 2026-11-09
+    title: Week 12 Guide
+    link: /assets/guides/fall26/week12.pdf
+    label: guide
 
 # The days of the week we have class on. Ranges from Sunday = 0 and Saturday = 6.
 # For example, for a semester with Tu/Th lectures, put ['2', '4'].
