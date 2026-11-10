@@ -37,8 +37,8 @@ labs:
   - skip: true
   - skip: true
   - title: Lab 6B 
-    link:
-    due:
+    link: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/data-140-berkeley/materials-fa26&branch=main&subPath=lab/Lab_06.ipynb
+    due: Nov 16 at 5 PM
   - title: Lab 7
     link: 
     due: 
